@@ -1,5 +1,5 @@
 <?php
-	session_start();
+	session_start()lupin;
 	include '../start_include.php';
 		logincheck();
 	$user_name=$_SESSION['user'];
